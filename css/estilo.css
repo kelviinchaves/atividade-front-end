@@ -22,6 +22,9 @@ header input{
     padding-right: 50px;
     margin-top: 30px;
 }
+.search-box{
+    width: 500px;
+}
 
 /*Conteudo principal*/
 
